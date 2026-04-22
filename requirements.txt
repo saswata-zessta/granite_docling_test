@@ -1,0 +1,6 @@
+vllm>=0.10.2
+docling-core>=2.25
+transformers>=4.45
+pillow
+pdf2image
+huggingface_hub

@@ -1,0 +1,25 @@
+# venvs
+venv/
+venv-*/
+.venv/
+
+# model weights (downloaded by setup.sh)
+models/
+
+# runtime outputs
+out/
+synthetic_out/
+*.dt
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# misc
+.DS_Store
+.ipynb_checkpoints/
+.claude/
+.idea/
+.vscode/
