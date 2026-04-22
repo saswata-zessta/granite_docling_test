@@ -1,0 +1,350 @@
+<!-- image -->
+
+BAGANSPECIALISTCENTRESDN.BHD.(199501031D19 (364067-V))
+
++604-3710000
+
+bagan.com.my
+
++604-3710008
+
+fBaganSpecialist Centre
+
+Bagan Specialist
+
+JalanBagan Satu,13400 Butterworth,Pulau Pinang Malaysia.
+
+Centre
+
+## INVOICE BILL-SUMMARY
+
+DEBTOR CODE
+
+：DEB-MICARE
+
+CREDITTERM
+
+:30Days
+
+DEBTORNAME
+
+MICARESDNBHD
+
+INVOICENO
+
+S-260324P002
+
+ATTENTION TO
+
+AHMADRAZIFBINMOHAMAD
+
+INVOICEDATE
+
+：24/03/202604:06AM
+
+CASHIERID
+
+CSH001
+
+ADDRESS
+
+：BLOCKANO22,JALANASTAKAU8/84.40150 SHAHALAM,SELANGOR
+
+ADMISSION DATE
+
+：19/03/202604:06AM
+
+DISCHARGE DATE
+
+：24/03/202604:06AM
+
+WARD/ROOM/
+
+WARD3B/SINGLE
+
+CLASS
+
+PAGENUMBER
+
+:Page1of2
+
+PATIENT
+
+：AHMADRAZIFBINMOHAMAD
+
+MRNNO
+
+0000091287
+
+ACCOUNTNO
+
+：ACC-00000
+
+RECEVEDSTAME
+
+DOCTORNAME
+
+DR.CHANKOKWENG
+
+CLAIMS/GLNO
+
+：MLIBIP03260771
+
+## DESCRIPTION
+
+ACCOMMODATION
+
+ADMISSION CHARGES
+
+ADMISSIONPACK
+
+ANAESTHETICFEES
+
+CONSULTATION FEES
+
+DOCTORPROCEDUREFEES
+
+INSTRUMENT
+
+LABORATORY
+
+MEDICALSUPPLIES
+
+NURSING CHARGES
+
+NURSINGPROCEDURE
+
+O.T.CHARGES
+
+PHARMACY CHARGES
+
+RADIOLOGYCHARGES
+
+SURGERYFEES
+
+USEOFEQUIPMENT
+
+JalanBagan1,TamanBagan,13400Butterworth,Penang Tel:+604-3710000 Fax:+604-3312806
+
+DISCOUNT
+
+GROSSAMT
+
+CHARGES (RM)
+
+(RM)
+
+(RM)
+
+NETAMT(RM)
+
+MSH
+
+<!-- image -->
+
+BAGAN SPECIALISTCENTRESDN.BHD.(199501031019 (364067-V))
+
+JalanBaganSatu,13400Butterworth,PulauPinang Malaysia.
+
++604-3710000
+
+bagan.com.my
+
++604-3710008
+
+fBaganSpecialistCentre
+
+Bagan Specialist Centre
+
+## INVOICE BILL-SUMMARY
+
+DEBTORCODE
+
+DEB-MICARE
+
+CREDIT TERM
+
+:30Days
+
+DEBTORNAME
+
+MICARESDNBHD
+
+INVOICENO
+
+S-260324P002
+
+ATTENTIONTO
+
+：AHMADRAZIFBINMOHAMAD
+
+INVOICEDATE
+
+24/03/202604:06AM
+
+CASHIERID
+
+：CSH001
+
+ADDRESS
+
+：BLOCKA.NO22,JALANASTAKAU8/84,40150 SHAHALAM,SELANGOR
+
+ADMISSIONDATE
+
+19/03/202604:06AM
+
+DISCHARGEDATE ：2
+
+24/03/202604:06AM
+
+WARD/ROOM/
+
+WARD3B/SINGLE
+
+CLASS
+
+PAGENUMBER
+
+Page2of2
+
+PATIENT MRNNO
+
+AHMADRAZIFBINMOHAMAD
+
+0000091287
+
+ACCOUNTNO
+
+：ACC-00000
+
+DOCTORNAME
+
+：DR.CHANKOKWENG
+
+CLAIMS/GLNO
+
+：MLIBIP03260771
+
+| DESCRIPTION        | CHARGES(RM)   | DISCOUNT (RM)    | GROSSAMT (RM)   |   NETAMT(RM) |
+|--------------------|---------------|------------------|-----------------|--------------|
+| TOTALINVOICEAMOUNT |               | 823.45           |                 |     9,584.50 |
+|                    |               | BALANCE PAYABLE: |                 |     8,585.00 |
+
+- -lf youhave anyenquiry.please contactus atTel:+604-3710000ext 1128/1617(duning office hours9am-5pm）
+- -Allcheque should be crossed andmade payable to BAGAN SPECIALIST CENTRESDN BHD.
+- -Emailinfo@bagan.com.myWe.valueyour feedback
+
+MSOH
+
+<!-- image -->
+
+BAGAN SPECIALISTCENTRESDN.BHD.(199501031019 (364067-V))
+
+Jalan Bagan Satu,13400 Butterworth,Pulau Pinang Malaysia.
+
++604-3710000
+
+bagan.com.my
+
++604-3710008
+
+fBagan Specialist Centre
+
+Bagan Specialist Centre
+
+## INVOICE BILL-ITEMIZED
+
+## DEBTORNAME
+
+PAGENUMBER
+
+:Page 1of3
+
+MICARESDN BHD
+
+INVOICENUMBER
+
+S-260324P002
+
+ADDRESS
+
+：BLOCKA,NO22,JALANASTAKAU8/84,40150 SHAHALAM,SELANGOR
+
+INVOICEDATE/TIME
+
+24/03/202604:06AM
+
+PREPARED BY
+
+:CSH001
+
+ACCOUNT
+
+：CORPORATE
+
+CLAIMS/GLNO
+
+：MLIBIP03260771
+
+CREDITTERM
+
+：30Days
+
+SERVICERECIPIENT
+
+ADMISSIONDATE
+
+：19/03/202604:06AM
+
+PATIENTNAME
+
+：AHMADRAZIFBINMOHAMAD
+
+DISCHARGEDATE
+
+24/03/2026.04:06AM
+
+CONTACT NUMBER
+
+012-3456789
+
+WARD/ROOM/
+
+WARD3B/SINGLE
+
+PATIENTADD
+
+CLASS
+
+IC/PASSPORTNO
+
+850304-08-6714
+
+LENGTHOFSTAY
+
+；DAY(S)
+
+MRNNO
+
+0000091287
+
+(s07)
+
+ADMISSIONNO
+
+:ACC-00000
+
+ADMITTINGDR
+
+:DR.CHAN KOKWENG
+
+| DATE            | DESCRIPTION      | QTY   | CHARGES (RM)   | DISCOUNT (RM)   | GROSSAMT (RM)   | NETAMT(RM)   |
+|-----------------|------------------|-------|----------------|-----------------|-----------------|--------------|
+| HOSPITALCHARGES | HOSPITALCHARGES  |       |                |                 |                 |              |
+|                 | ACCOMMODATION    |       |                |                 |                 |              |
+|                 | ADMISSIONCHARGES |       |                |                 |                 |              |
+|                 | INSTRUMENT       |       |                |                 |                 |              |
+|                 | LABORATORY       |       |                |                 |                 |              |
+
+Prirnted Byon

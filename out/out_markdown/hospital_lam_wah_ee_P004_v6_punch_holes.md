@@ -1,0 +1,177 @@
+<!-- image -->
+
+## 南华医院
+
+HOSPITALLAMWAHEE33(Penang)/PPM-004-07-05081950
+
+No.141,Jalan Tan Sri TehEweLim,11600PulauPinang,Malaysia.
+
+Tel:+604-6528888Fax:+604-6570940Email:lamwahee@hlwe.comWebsite: www.hlwe.com.my
+
+<!-- image -->
+
+## INTERIM BILL
+
+## PAYOR/GUARANTORNAME
+
+DATE
+
+：24/03/202604:12AM
+
+MICARESDNBHD
+
+CHARGETYPE
+
+:GL/INSURANCE
+
+PAYOR/GUARANTOR ADDRESS
+
+CREDITTERM
+
+:30Days
+
+POLICY/REFNO
+
+：MLF-2024-00456789
+
+C/OMANULIFEINSURANCEBERHAD,BLOCKANO22,JALANASTAKAU8/84, 40150SHAHALAM
+
+MRN
+
+：0000118943
+
+PATIENTACCOUNTNO
+
+:ACC-00001
+
+PATIENT NAME
+
+SITIMARIAMBINTIHASSAN
+
+ADMISSIONDATETIME
+
+：19/03/202604:12AM
+
+DISCHARGEDATE
+
+：24/03/202604:12AM
+
+ADDRESS
+
+WARD/BED
+
+：WARD3B/SINGLE
+
+TEL.
+
+SEX/AGE
+
+：
+
+ATTENDINGDOCTOR
+
+：DR.OOITENGAUNG
+
+PAGE
+
+：Page1of 2
+
+## DESCRIPTIONOFCHARGES
+
+## HOSPITALCHARGES
+
+ADMISSIONFEES
+
+EQUIPMENT/FACILITIES
+
+INVASIVECATHERIZATIONLAB
+
+LABORATORYTEST
+
+MEDICALGAS
+
+MEDICALSUPPLIES
+
+NURSING CARE
+
+PHARMACY
+
+ROOMCHARGES-
+
+## DOCTORCHARGES
+
+<!-- image -->
+
+AMOUNT
+
+DISCOUNT/ WAIVERRM
+
+PAYABLE RM
+
+RM
+
+TOTALBILLPAYABLE BALANCEPAYABLE
+
+8,585.00
+
+LWEH/AC0087 (December2020)
+
+TOTALHOSPITALCHARGES
+
+TOTALDOCTORCHARGES
+
+<!-- image -->
+
+## 南华醫院
+
+## HOSPITALLAMWAHEE33(Penang)/PPM-004-07-05081950
+
+No.141,JalanTanSri TehEweLim,11600PulauPinang,Malaysia. Tel:+604-6528888Fax:+604-6570940Email:lamwahee@hlwe.comWebsite: www.hlwe.com.my
+
+MSH
+
+INTERIMBILL
+
+PATIENTNAME PATIENTACCOUNTNO
+
+：SITIMARIAMBINTIHASSAN
+
+MRN PAGE
+
+：0000118943
+
+：ACC-00001
+
+：Page2of2
+
+AMOUNT RM
+
+DISCOUNT/ WAIVERRM
+
+PAYABLE RM
+
+DESCRIPTIONOFCHARGES
+
+## DEPOSITDETAILS:
+
+DATE
+
+RECEIPTNO
+
+DEPOSITAGAINST
+
+TOTAL
+
+BALANCE
+
+## Note:
+
+- 1.Wereservetherightobillyouanyomittedcharges.
+- 2.Wereservetheright toimposelatepaymentchargesattherateof1.5%permonthcalculatedonadailybasisonoverduepayment.
+- 3.Cheque should bemadepayable toHOSPITALLAMWAH EE,validityof chequesubject toclearance.
+- 4.Paymentcanmadeonline toCIMBBankBhd.,Hospital LamWahEe,accountno.8601008701.Kindlyquotepatient'sname,MRNno.oraccountno.onthefield andinformus eitherbywhatsappthebankadviceslipto04-6528921oremailtopac@hlwe.comorfaxto604-6528620/604-6528674.
+- 5.Shouldyounotcollectyourrefundafternotificationofmore than180days,wewill transfertherefundamounttoourGeneralFundinaidofMedicalTreatment.
+
+Printed Date/Time:
+
+LWEH/AC0087 (December 2020)
